@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://projecteuler.net/profile/hiragn1220.png
+<p><img src="https://projecteuler.net/profile/hiragn1220.png"/></p>
